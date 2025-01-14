@@ -1,0 +1,27 @@
+.Accent{
+    background-color: #FF5A30;
+    height: 60px;
+    width: 60px;
+    border-radius: 100%;
+    cursor: pointer;
+}
+
+.Usual{
+    background-color: white;
+    height: 60px;
+    width: 60px;
+    border-radius: 100%;
+    cursor: pointer;
+}
+
+.Grey{
+    background-color: #F4F5F6;
+    height: 60px;
+    width: 60px;
+    border-radius: 100%;
+    cursor: pointer;
+}
+
+.right_str{
+    transform: scale(-1, 1)
+}

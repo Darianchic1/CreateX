@@ -1,0 +1,16 @@
+.Accent_sq{
+    background-color: #FF5A30;
+    color: white;
+    padding: 0px 35px 0px 35px;
+    border-radius: 5px;
+    font-size: 16px;
+}
+
+.Usual_sq{
+    color: white;
+    border-color: white;
+    border-width: 1px;
+    background-color: rgba(0, 0, 0, 0);
+    padding: 0px 35px 0px 35px;
+    border-radius: 5px;
+}
